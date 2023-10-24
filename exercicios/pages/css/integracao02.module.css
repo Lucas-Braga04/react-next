@@ -1,0 +1,16 @@
+#integracao{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.vermelho{
+    color: red;
+}
+.amarelo{
+    color: yellow;
+}
+.verde{
+    color: green;
+}

@@ -1,0 +1,98 @@
+.estiloglobal{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#titulo{
+    font-size: 35px;
+    color: blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#front{
+
+    display: inline-flex;
+    flex-direction: column;
+    font-size: 20px;
+    text-align: justify;
+    height: 20vh;
+    width: 20vw;
+    padding: 10px;
+    margin-left: 30vw;
+   
+}
+#back{
+    display: inline-flex;
+    flex-direction: column;
+    font-size: 20px;
+    text-align: justify;
+    height: 20vh;
+    width: 20vw;
+    padding: 10px;
+    
+}
+#full{
+    display: inline-flex;
+    flex-direction: column;
+    font-size: 20px;
+    text-align: justify;
+    height: 20vh;
+    width: 20vw;
+    padding: 10px;
+    
+}
+
+#imagemfront{
+    src: url(/my-app/imagens/front.jfif);
+}
+#imagemback{
+    src: url(/my-app/imagens/back.jfif);
+}
+#imagemfull{
+    src: url(/my-app/imagens/full.jfif);
+}
+.secaotexto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#loremfront{
+    display: inline-flex;
+    flex-direction: column;
+    font-size: 20px;
+    text-align: justify;
+    height: 20vh;
+    width: 20vw;
+    padding: 10px;
+    margin: 60px;
+}
+
+#loremback{
+    display: inline-flex;
+    flex-direction: column;
+    font-size: 20px;
+    text-align: justify;
+    height: 20vh;
+    width: 20vw;
+    padding: 10px;
+    margin: 50px;
+}
+
+#loremfull{
+    display: inline-flex;
+    flex-direction: column;
+    font-size: 20px;
+    text-align: justify;
+    height: 20vh;
+    width: 20vw;
+    padding: 10px;
+    margin: 50px;
+}
